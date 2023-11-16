@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div className="Footer">
       <a
-        href="https://github.com/nesliprm?tab=repositories"
+        href="https://github.com/nesliprm/weather-app-react"
         target="_blank"
         rel="noopener noreferrer"
       >
